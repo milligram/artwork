@@ -1,5 +1,7 @@
 # [Milligram](http://milligram.github.io)
 
+[![Join the chat at https://gitter.im/milligram/brand](https://badges.gitter.im/milligram/brand.svg)](https://gitter.im/milligram/brand?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 | A minimalist CSS framework.
 
 [![Build Status](https://travis-ci.org/milligram/milligram.svg?branch=master)](https://travis-ci.org/milligram/milligram)
